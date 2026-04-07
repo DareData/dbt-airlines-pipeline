@@ -7,5 +7,6 @@ select
     airport_name,
     city,
     state,
-    country
+    country,
+    zip_code
 from airports
